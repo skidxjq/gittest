@@ -16,6 +16,7 @@ while (str != '') { //用while遍历整个字符串。
 }
 document.write("原数组为" + "[" + arr + "]" + "</br>");
 document.write(result + "</br>");
+console.log("this is a modify on index.js ***dev2")
 // 将数组进行遍历，如果所在索引的字符等于mark的值就输出该索引。
 for (var i = 0; i < arr.length; i++) {
     if (mark == arr[i]) {
