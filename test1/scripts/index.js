@@ -23,3 +23,5 @@ for (var i = 0; i < arr.length; i++) {
         document.write(mark + "第" + index + "次出现的位置的索引为" + i + "</br>");
     }
 }
+
+alert("abcd **dev1");
